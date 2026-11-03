@@ -1,6 +1,6 @@
 public class objectCreating {
     //create a object the inside the same class.
-    public static void main(String[] args) {
+    public static void main(String a[]) {
 
         objectCreating obj = new objectCreating();
 
