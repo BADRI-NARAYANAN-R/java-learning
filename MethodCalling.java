@@ -1,6 +1,6 @@
 public class MethodCalling {
     //Method call a another method.
-    public static void main(String[] args) {
+    public static void main(String a[]) {
         System.out.println("1. Add: "+add(20,10));
     }
 
