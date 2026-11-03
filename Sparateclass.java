@@ -1,7 +1,7 @@
 public class Sparateclass{
 
     //create a object sparate class.
-    public static void main(String[] args) {
+    public static void main(String a[]) {
 
         objectCreating obj = new objectCreating();
 
