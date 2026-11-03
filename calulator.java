@@ -1,5 +1,5 @@
 public class calulator {
-    public static void main(String[] args) {
+    public static void main(String a[]) {
 
         System.out.println("Add: " + add(20,10));
         System.out.println("Subtract: " + sub(20,10));
