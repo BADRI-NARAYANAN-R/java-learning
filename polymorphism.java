@@ -1,5 +1,5 @@
 public class polymorphism {
-    public static void main(String[] args) {
+    public static void main(String a[]) {
         
         System.out.println("main method.");
         main();
