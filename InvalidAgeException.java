@@ -4,6 +4,6 @@ public InvalidAgeException(){
 super("Invalid age.");
 }
 public void getMess(){
-    System.out.println(super.getMessage());
+System.out.println(super.getMessage());
 }
 }
